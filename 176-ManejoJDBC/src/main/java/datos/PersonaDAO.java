@@ -5,9 +5,7 @@ package datos;
 import domain.Persona;
 import java.sql.*;
 import java.util.*;
-import static datos.Conexion.*;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+
 
 
 public class PersonaDAO {
